@@ -1,3 +1,3 @@
 # eapi.world.netcorecloud.net
 
-##SUBDOMAIN TAKEOVER BY TENX
+## SUBDOMAIN TAKEOVER BY TENX
